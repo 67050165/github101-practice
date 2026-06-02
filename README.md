@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| น.ส.พิชชาภา คงมหาพฤกษ์ | Team 06 | Product / UX Designer | [example evidence](docs/evidence/67050165-student.md) | - |
+| น.ส.พิชชาภา คงมหาพฤกษ์ | Team 06 | Product / UX Designer | [example evidence](docs/evidence/67050165-student.md) |  |
 
 ---
 
